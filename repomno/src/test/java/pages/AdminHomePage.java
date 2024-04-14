@@ -8,6 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AdminHomePage {
+system.out.println("sai ram");
 	WebDriver driver;
 	public AdminHomePage(WebDriver driver) {
 		this.driver=driver;
