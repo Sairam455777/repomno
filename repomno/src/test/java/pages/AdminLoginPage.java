@@ -8,7 +8,11 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AdminLoginPage {
+<<<<<<< HEAD
 system.out.println("we editing some data into the sai repomno file");
+=======
+	system.out.println("RRRRRRRR");
+>>>>>>> fba8b9a5beff4cd7bf18616cc4c0f128c5a662d0
 	WebDriver driver;
 	public AdminLoginPage(WebDriver driver) {
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
