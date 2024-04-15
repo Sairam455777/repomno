@@ -8,6 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AdminLoginPage {
+	system.out.println("ssssss");
 	WebDriver driver;
 	public AdminLoginPage(WebDriver driver) {
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
