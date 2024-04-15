@@ -11,7 +11,7 @@ public class AdminLoginPage {
 <<<<<<< HEAD
 system.out.println("we editing some data into the sai repomno file");
 =======
-	system.out.println("RRRRRRRR");
+	system.out.println("MMMMMMMM");
 >>>>>>> fba8b9a5beff4cd7bf18616cc4c0f128c5a662d0
 	WebDriver driver;
 	public AdminLoginPage(WebDriver driver) {
