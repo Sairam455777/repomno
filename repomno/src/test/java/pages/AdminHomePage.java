@@ -8,7 +8,11 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AdminHomePage {
+<<<<<<< HEAD
 system.out.println("sai ram updated its777777");
+=======
+system.out.println("sai ram updated its11111");
+>>>>>>> saibranch
 	WebDriver driver;
 	public AdminHomePage(WebDriver driver) {
 		this.driver=driver;
