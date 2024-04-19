@@ -8,7 +8,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AdminHomePage {
-system.out.println("ram updated its second time");
+
+
 	WebDriver driver;
 	public AdminHomePage(WebDriver driver) {
 		this.driver=driver;
